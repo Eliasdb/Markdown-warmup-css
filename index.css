@@ -6,13 +6,11 @@ body {
 }
 body {
   text-align: center
-
 }
 h1 {
   display: inline-block;
   border: 5px solid black;
 }
-
 ul {
     display: inline-block;
     padding-left: 0;
