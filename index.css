@@ -1,0 +1,25 @@
+body {
+  background-image: url("pug2.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+body {
+  text-align: center
+
+}
+h1 {
+  display: inline-block;
+  border: 5px solid black;
+}
+
+ul {
+    display: inline-block;
+    padding-left: 0;
+    text-align: left;
+}
+ol {
+    display: inline-block;
+    padding-left: 325px;
+    text-align: left;
+}
